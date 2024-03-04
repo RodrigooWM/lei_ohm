@@ -21,33 +21,36 @@ body{
     border-radius: 20px;
     flex-direction: row; /*elementos em linha*/
     display: flex;
-    align-items: center;
+    align-items:center ;
     justify-content: space-evenly; /*justifica os elementos no centro da tela*/
     box-shadow: 20px 20px 5px rgba(0, 0, 0, 0.418);
+    
 }
 
 p{
     
 }
 #elemento{
-    padding-top: 30%;
+    padding-top: 40%;
+    
 }
 
 #I {
-    text-align: center;
+    
     
     border-radius: 15pt;
     margin: 20px;
     width: 300px;
     height: 300px;
     background-color: #D6D7D7;
+   
     
     
   
 }
 #V {
     
-    text-align: center;
+  
     border-radius: 15pt;
     margin: 20px;
     width: 300px;
@@ -57,7 +60,7 @@ p{
 }
 #P {
    
-    text-align: center;
+    
     border-radius: 15pt;
     margin: 20px;
     width: 300px;
@@ -67,7 +70,7 @@ p{
 }
 #R {
     
-    text-align: center;
+    
     border-radius: 15pt;
     margin: 20px;
     width: 300px;
