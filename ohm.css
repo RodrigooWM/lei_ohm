@@ -1,0 +1,77 @@
+header{
+    text-align: center;
+}
+body{
+
+    color:white;
+    text-align: center;
+    width: auto;
+    font: normal 20pt arial;
+    background: linear-gradient(to right, rgb(1, 1, 112), rgb(150, 223, 233));
+    margin-left: 200px;
+    margin-right: 200px; /*arrumar essa forma de alinhamento, pelo amor de deus*/
+}
+#sec{
+    color:black;
+    width: 700px;
+    height: auto;
+    margin:auto;
+    background-color: rgb(38, 0, 255);
+    flex-wrap: wrap; /*quebra dos elementos quando não couberem mais na tela*/
+    border-radius: 20px;
+    flex-direction: row; /*elementos em linha*/
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly; /*justifica os elementos no centro da tela*/
+    box-shadow: 20px 20px 5px rgba(0, 0, 0, 0.418);
+}
+
+p{
+    
+}
+#elemento{
+    padding-top: 30%;
+}
+
+#I {
+    text-align: center;
+    
+    border-radius: 15pt;
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    background-color: #D6D7D7;
+    
+    
+  
+}
+#V {
+    
+    text-align: center;
+    border-radius: 15pt;
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    background-color: #D6D7D7;
+    
+}
+#P {
+   
+    text-align: center;
+    border-radius: 15pt;
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    background-color: #D6D7D7;
+    
+}
+#R {
+    
+    text-align: center;
+    border-radius: 15pt;
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    background-color: #D6D7D7;
+    
+}
